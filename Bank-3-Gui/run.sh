@@ -1,0 +1,1 @@
+java jade.Boot -gui -agents 'bankServer:BankServerAgent;bankClient:BankClientAgent'
